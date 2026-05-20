@@ -1,1 +1,1 @@
-# -DDPM-on-MNIST
+# DDPM-on-MNIST
